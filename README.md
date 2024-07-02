@@ -1,5 +1,8 @@
-### Hi there 👋, my name is Riyad
-#### A passionate frontend developer from Bangladesh
+<p>
+ <h1 style="font-size:100px;" align="center">Hi there 👋, I am Riyad</h1>
+<h2 align="center">A passionate frontend developer from Bangladesh</h2>
+</p>
+
 ![A passionate frontend developer from Bangladesh](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)
 
 Passionate Frontend React.js Developer | MERN Stack Specialist | Transforming Ideas into Exceptional Web Experiences.
