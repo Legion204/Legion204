@@ -10,7 +10,9 @@
 
 <div>
  <h2>About Me</h2>
- <p>Hi, I'm Riyad! I am a passionate React frontend web developer with a knack for creating dynamic and responsive web applications. With a strong foundation in JavaScript and a keen eye for design, I strive to deliver seamless user experiences and efficient, maintainable code.</p>
+ <p>Hello! I'm Riyad, a computer science student with a strong passion for front-end development. My coding journey commenced in mid 2023, and since then, I have been dedicated to refining my skills and creating engaging user interfaces.
+
+My interest in development sparked from a curiosity about how web technologies operate. This curiosity propelled me to delve deeply into HTML, CSS, and JavaScript. Now, as an emerging front-end developer, I'm eager to explore the vast realm of web development, particularly with a keen interest in React.</p>
 </div>
 
  <h2 align="left">My skills</h2>
@@ -26,11 +28,13 @@
 </div> 
 
 
-<div >
- <h3>🌱 I’m currently learning Next.js</h3>
- <h3>📫 How to reach me: riyad.web.dev.pro@gmail.com</h3>
- <h3>⚡ Fun fact: I once binge-watched 400 episodes of One Piece in just 5 days. I may not have found the One Piece, but I did discover the true limits of human endurance!</h3>
-</div> 
+- 🌱 I’m currently learning: **Next.js**
+
+- 💬 Ask me about: **React,JavaScript,HTML,CSS**
+
+- 📫 How to reach me: **riyad.web.dev.pro@gmail.com**
+
+- ⚡ Fun fact: **I once binge-watched 400 episodes of One Piece in just 5 days. I may not have found the One Piece, but I did discover the true limits of human endurance!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
