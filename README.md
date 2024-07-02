@@ -8,7 +8,12 @@
  <img src="https://i.postimg.cc/TP20fZtK/github-header-image.png"/>
 </div>
 
- <h2 align="center">My skills</h2>
+<div>
+ <h2>About Me</h2>
+ <p>Hi, I'm Riyad! I am a passionate React frontend web developer with a knack for creating dynamic and responsive web applications. With a strong foundation in JavaScript and a keen eye for design, I strive to deliver seamless user experiences and efficient, maintainable code.</p>
+</div>
+
+ <h2 align="left">My skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind,bootstrap,nodejs,express,firebase,mongodb,next,git,github" />
@@ -16,6 +21,7 @@
 </p>
 
 <div align="center">
+ <h2 align="left">My streak</h2>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Legion204&theme=prussian" alt="GitHub Streak" /></a>
 </div> 
 
