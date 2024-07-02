@@ -6,6 +6,8 @@ Passionate Frontend React.js Developer | MERN Stack Specialist | Transforming Id
 
 Skills:  REACT / JavaScript / HTML / CSS / Next.js
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Legion204)](https://git.io/streak-stats) 
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: riyad.web.dev.pro@gmail.com 
@@ -13,7 +15,6 @@ Skills:  REACT / JavaScript / HTML / CSS / Next.js
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Legion204)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riyadul-islam-web-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/riyadul.islam.420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/riyadul.islam.420/)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Legion204)  
+ 
 
 
